@@ -1,0 +1,9 @@
+Time Complexity.
+whenever in loop multiplication or division factor is there..the complexity generally turns out to be O(logn) with base 2.
+eg binary search.
+Big O - upper bound.
+Omega - lower bound.
+Thetha -  tight bound,bound Big O and Omega.
+In recursion, if there are two recursive calls in the function, the complexity is O(n^square).
+
+
