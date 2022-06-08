@@ -6,4 +6,10 @@ Omega - lower bound.
 Thetha -  tight bound,bound Big O and Omega.
 In recursion, if there are two recursive calls in the function, the complexity is O(n^square).
 
+Linked List
+To determine if linkedList has cycle- Hare and Tortoise Algorithm
+slow = slow.next fast = fast.next.next slow == fast
+
+Counter in Collections in python used to create hast tables
+
 
