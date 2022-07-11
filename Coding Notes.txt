@@ -13,4 +13,7 @@ slow = slow.next fast = fast.next.next slow == fast
 Counter in Collections in python used to create hast tables
 String problems- Always check for sliding window technique.
 
+Read this article on Binary Search
+https://leetcode.com/problems/first-bad-version/discuss/769685/Python-Clear-explanation-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems.
+
 
